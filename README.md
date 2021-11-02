@@ -1,2 +1,1 @@
-# m6-amazon
- PostgreSQL amazon project
+# amazon-clone-team-project-be
